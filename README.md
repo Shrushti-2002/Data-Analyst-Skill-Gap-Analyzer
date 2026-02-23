@@ -1,4 +1,4 @@
-📊 #Data Analyst Skill Gap Analyzer
+📊 Data Analyst Skill Gap Analyzer
 
 📌 Overview
 
